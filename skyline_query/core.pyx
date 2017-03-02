@@ -1,4 +1,4 @@
-def dominate_check(attrs_1, attrs_2):
+cpdef dominate_check(attrs_1, attrs_2):
     """
     This is skyline query core method that is for
     dominating compare.
